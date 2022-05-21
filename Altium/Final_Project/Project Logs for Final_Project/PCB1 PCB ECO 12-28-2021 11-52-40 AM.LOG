@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Net9_2 Pin=U1-4
+Removed Pin From Net: NetName=NetR2_1 Pin=U1-5
+Change Component Comment : Designator=R1 Old Comment=R New Comment=330
+Added Pin To Net: NetName=NetR2_1 Pin=U1-4
+Added Pin To Net: NetName=Net9_2 Pin=U1-5
+Added Member To Class: ClassName=Sheet1 Member=Component IC8 74147
+Added Member To Class: ClassName=Sheet1 Member=Component R2 510
+Added Member To Class: ClassName=Sheet1 Member=Component R3 510
+Added Member To Class: ClassName=Sheet1 Member=Component R4 510
+Added Member To Class: ClassName=Sheet1 Member=Component R5 510
+Added Member To Class: ClassName=Sheet1 Member=Component R6 510
+Added Member To Class: ClassName=Sheet1 Member=Component R7 510
+Added Member To Class: ClassName=Sheet1 Member=Component R8 510
+Added Member To Class: ClassName=Sheet1 Member=Component R9 510
+Added Member To Class: ClassName=Sheet1 Member=Component R10 510
+Added Member To Class: ClassName=Sheet1 Member=Component R11 510

@@ -1,0 +1,12 @@
+Added Component: Designator=U2(N14_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4075BEG4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC4_8 Pin=U2-1
+Added Pin To Net: NetName=NetIC4_6 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=NetIC4_3 Pin=U2-8
+Added Pin To Net: NetName=NetIC6_1 Pin=U2-9
+Added Member To Class: ClassName=Sheet1 Member=Component U2 CD4075BEG4

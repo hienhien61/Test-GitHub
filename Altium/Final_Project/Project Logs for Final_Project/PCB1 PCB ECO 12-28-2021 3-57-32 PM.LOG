@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetIC6_1 Pin=IC6-1
+Removed Pin From Net: NetName=NetIC6_2 Pin=IC6-2
+Removed Pin From Net: NetName=NetIC6_3 Pin=IC6-3
+Removed Pin From Net: NetName=NetIC6_4 Pin=IC6-4
+Removed Pin From Net: NetName=NetIC6_5 Pin=IC6-5
+Removed Pin From Net: NetName=NetIC6_6 Pin=IC6-6
+Removed Pin From Net: NetName=GND Pin=IC6-7
+Removed Pin From Net: NetName=NetIC6_12 Pin=IC6-12
+Removed Pin From Net: NetName=NetIC6_13 Pin=IC6-13
+Removed Pin From Net: NetName=VCC Pin=IC6-14
+Removed Pin From Net: NetName=GND Pin=IC9-7
+Removed Pin From Net: NetName=VCC Pin=IC9-14
+Removed Member From Class: ClassName=Sheet1 Member=IC9
+Added Component: Designator=IC6(DIP14/W0.3)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/74/74F04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "7404"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC6_1 Pin=IC6-1
+Added Pin To Net: NetName=NetIC6_2 Pin=IC6-2
+Added Pin To Net: NetName=NetIC6_3 Pin=IC6-3
+Added Pin To Net: NetName=NetIC6_4 Pin=IC6-4
+Added Pin To Net: NetName=NetIC6_5 Pin=IC6-5
+Added Pin To Net: NetName=NetIC6_6 Pin=IC6-6
+Added Pin To Net: NetName=GND Pin=IC6-7
+Added Pin To Net: NetName=NetIC6_12 Pin=IC6-12
+Added Pin To Net: NetName=NetIC6_13 Pin=IC6-13
+Added Pin To Net: NetName=VCC Pin=IC6-14
+Added Pin To Net: NetName=NetIC6_8 Pin=IC6-8
+Added Pin To Net: NetName=NetIC6_8 Pin=U1-10
+Added Net: Name=NetIC6_8
+Added Pin To Net: NetName=NetIC6_9 Pin=IC6-9
+Added Pin To Net: NetName=NetIC6_9 Pin=U2-9
+Added Net: Name=NetIC6_9

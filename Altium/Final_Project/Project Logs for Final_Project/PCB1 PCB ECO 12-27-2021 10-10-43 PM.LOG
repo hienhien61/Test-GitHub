@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=NetDS1_1 Pin=IC7-9
+Removed Pin From Net: NetName=NetDS1_2 Pin=IC7-10
+Removed Pin From Net: NetName=NetDS1_4 Pin=IC7-11
+Removed Pin From Net: NetName=NetDS1_6 Pin=IC7-12
+Removed Pin From Net: NetName=NetDS1_7 Pin=IC7-13
+Removed Pin From Net: NetName=NetDS1_10 Pin=IC7-14
+Removed Pin From Net: NetName=NetDS1_9 Pin=IC7-15
+Added Component: Designator=R15(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS1_7 Pin=R15-2
+Added Pin To Net: NetName=NetDS1_6 Pin=R16-2
+Added Pin To Net: NetName=NetDS1_4 Pin=R17-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R18-2
+Added Pin To Net: NetName=NetDS1_1 Pin=R19-2
+Added Pin To Net: NetName=NetDS1_9 Pin=R20-2
+Added Pin To Net: NetName=NetDS1_10 Pin=R21-2
+Added Pin To Net: NetName=NetIC7_9 Pin=IC7-9
+Added Pin To Net: NetName=NetIC7_9 Pin=R19-1
+Added Net: Name=NetIC7_9
+Added Pin To Net: NetName=NetIC7_10 Pin=IC7-10
+Added Pin To Net: NetName=NetIC7_10 Pin=R18-1
+Added Net: Name=NetIC7_10
+Added Pin To Net: NetName=NetIC7_11 Pin=IC7-11
+Added Pin To Net: NetName=NetIC7_11 Pin=R17-1
+Added Net: Name=NetIC7_11
+Added Pin To Net: NetName=NetIC7_12 Pin=IC7-12
+Added Pin To Net: NetName=NetIC7_12 Pin=R16-1
+Added Net: Name=NetIC7_12
+Added Pin To Net: NetName=NetIC7_13 Pin=IC7-13
+Added Pin To Net: NetName=NetIC7_13 Pin=R15-1
+Added Net: Name=NetIC7_13
+Added Pin To Net: NetName=NetIC7_14 Pin=IC7-14
+Added Pin To Net: NetName=NetIC7_14 Pin=R21-1
+Added Net: Name=NetIC7_14
+Added Pin To Net: NetName=NetIC7_15 Pin=IC7-15
+Added Pin To Net: NetName=NetIC7_15 Pin=R20-1
+Added Net: Name=NetIC7_15
+Added Member To Class: ClassName=Sheet1 Member=Component R15 100
+Added Member To Class: ClassName=Sheet1 Member=Component R16 100
+Added Member To Class: ClassName=Sheet1 Member=Component R17 100
+Added Member To Class: ClassName=Sheet1 Member=Component R18 100
+Added Member To Class: ClassName=Sheet1 Member=Component R19 100
+Added Member To Class: ClassName=Sheet1 Member=Component R20 100
+Added Member To Class: ClassName=Sheet1 Member=Component R21 100

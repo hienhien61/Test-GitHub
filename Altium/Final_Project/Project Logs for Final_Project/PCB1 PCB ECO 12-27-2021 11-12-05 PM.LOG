@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=CON1-1
+Removed Pin From Net: NetName=GND Pin=CON1-2
+Removed Pin From Net: NetName=GND Pin=CON1-3
+Removed Pin From Net: NetName=GND Pin=IC9-7
+Removed Pin From Net: NetName=VCC Pin=IC9-14
+Removed Pin From Net: NetName=NetIC6_2 Pin=U1-9
+Removed Pin From Net: NetName=NetIC6_1 Pin=U2-9
+Added Component: Designator=IC9(DIP14/W0.3)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/74/74F04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "7404"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC6_2 Pin=IC7-7
+Added Pin To Net: NetName=NetIC6_1 Pin=IC8-9
+Added Pin To Net: NetName=GND Pin=IC9-7
+Added Pin To Net: NetName=VCC Pin=IC9-14
+Added Pin To Net: NetName=NetIC9_1 Pin=IC9-1
+Added Pin To Net: NetName=NetIC9_1 Pin=U2-9
+Added Net: Name=NetIC9_1
+Added Pin To Net: NetName=NetIC9_2 Pin=IC9-2
+Added Pin To Net: NetName=NetIC9_2 Pin=U1-9
+Added Net: Name=NetIC9_2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 EEEFK1V681AQ
